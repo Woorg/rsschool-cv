@@ -8,14 +8,14 @@ Contacts:
 =========
 
 - — portfolio: https://igorlov.ru
-- — email: igor@igorlov.ru
+- — email: contact@igorlov.ru
 - — telegram: https://t.me/igor_gorlov
 - — github: https://github.com/woorg
 
 About:
 ======
 
-Hi I'm Igor a freelance web developer. My goal is to learn modern web technology stack. I like to solve problems with code. I want to get skills and knowledge, which will be enough to work in a company.
+Hi I'm Igor a freelance web developer. My goal is to learn modern web technology stack. I like to solve problems with code. I want to get skills and knowledge, which will be enough to work at freelance.
 
 - — Quick learner
 - — Problem solver
